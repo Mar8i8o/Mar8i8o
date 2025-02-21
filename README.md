@@ -1,4 +1,4 @@
-<h1>👋 ¡Hola! Soy un desarrollador con una sólida experiencia en Unity y en el desarrollo de aplicaciones para PlayStore. 🚀 Me gusta aprender nuevas tecnologías para ampliar mis habilidades. 🌟</h1>
+<h1>👋 ¡Hola! Soy un desarrollador con una sólida experiencia en Unity y en el desarrollo de aplicaciones para PlayStore. 🚀</h1>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
